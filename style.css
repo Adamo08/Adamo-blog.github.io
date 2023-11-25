@@ -890,7 +890,7 @@ footer .foo-bot .social-links ion-icon{
 .blog-post .post-img{
     width: 100%;
     height: 400px;
-    background: url(./Images/community/_1.jpg);
+    background: url(./Images/community/img1.jpg);
     background-size: cover;
     background-position: center;
     margin-top: 40px;
@@ -954,13 +954,13 @@ footer .foo-bot .social-links ion-icon{
     background-size: cover;
 }
 .next-post ._1{
-    background: url(./Images/community/_5.jpg);
+    background: url(./Images/community/img5.jpg);
 }
 .next-post ._2{
-    background: url(./Images/community/_8.jpg);
+    background: url(./Images/community/img8.jpg);
 }
 .next-post ._3{
-    background: url(./Images/community/_7.jpg);
+    background: url(./Images/community/img7.jpg);
 }
 .next-post p{
     margin-bottom: 15px;
@@ -1019,7 +1019,7 @@ footer .foo-bot .social-links ion-icon{
 .about-top .about-top-img{
     /* height: 400px; */
     position: relative;
-    background:url(./Images/community/_6.jpg);
+    background:url(./Images/community/img6.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1091,7 +1091,7 @@ footer .foo-bot .social-links ion-icon{
 }
 
 .more-about .right_{
-    background: url(./Images/community/_10.jpg);
+    background: url(./Images/community/img10.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -1107,7 +1107,7 @@ footer .foo-bot .social-links ion-icon{
     border-top-left-radius: 40px;
 }
 .why-we-started .left_{
-    background: url(./Images/community/_11.jpg);
+    background: url(./Images/community/img11.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
