@@ -20,7 +20,7 @@ This blog website is designed to showcase my thoughts, ideas, and experiences on
 - Fully responsive design
 - User-friendly navigation
 - Categories and tags for organizing content
-- [Add any additional features]
+
 
 ## Getting Started
 
