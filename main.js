@@ -104,3 +104,14 @@ document.addEventListener("DOMContentLoaded", function() {
         document.getElementById("main-content").style.display = "block";
     }, 2000); // Adjust the delay as needed
 });
+
+
+// Changine location to a blog post when clicking .all-posts-posts > div in the home section
+
+const homePosts = document.querySelectorAll(".all-posts-posts div");
+console.log(homePosts);
+homePosts.forEach((item) => {
+    item.addEventListener('click',()=>{
+        document.location.href = './blog-post.html';
+    })
+})
