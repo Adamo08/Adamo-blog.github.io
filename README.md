@@ -2,8 +2,6 @@
 
 Welcome to my personal blog website! This repository hosts the source code for my fully responsive blog site. Feel free to explore the content and design. If you have any feedback or suggestions, I'd love to hear them!
 
-Welcome to my blog project!
-
 You can view the GitHub Pages site for this repository here:
 [Adamo-blog GitHub Pages](https://adamo08.github.io/Adamo-blog.github.io)
 
