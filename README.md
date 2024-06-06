@@ -26,8 +26,8 @@ This blog website is designed to showcase my thoughts, ideas, and experiences on
 
 To get a copy of this project up and running on your local machine, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/<username>/<repository-name>.git`
-2. Navigate to the project directory: `cd <repository-name>`
+1. Clone the repository: `git clone https://github.com/Adamo08/Adamo-blog.github.io.git`
+2. Navigate to the project directory: `cd Adamo-blog.github.io`
 3. Open the `index.html` file in your browser.
 
 ## Usage
